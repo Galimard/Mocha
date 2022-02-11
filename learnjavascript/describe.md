@@ -18,7 +18,7 @@ it("описание", function() { ... })
 
 Mocha будет запускать только этот блок
 it.only("5 в степени 2 будет 25", function() {
-assert.equal(pow(5, 2), 25);
+  assert.equal(pow(5, 2), 25);
 });
 
 assert.equal(value1, value2)
