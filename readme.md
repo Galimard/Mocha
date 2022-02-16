@@ -1,4 +1,4 @@
-## Тестирование в проекте
+# Тестирование в проекте
 
 ## Установка Mocha и chai  
 npm install mocha chai --save
@@ -8,7 +8,7 @@ npm init -y (-y отвечает на все вопросы yes)
 
 ## Создаем папку test
 
-##Пример  
+## Пример  
 const mocha = require('mocha');
 const chai = require('chai');
 
